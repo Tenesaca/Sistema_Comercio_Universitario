@@ -188,7 +188,50 @@
                 <p><span class="keyword">Para</span> compartir mi opinión con otros usuarios.</p>
             </div>
         </div>
+        <div class="card card-user-story" style="background-color: lightblue;">
+            <div class="card-header">Tenesaca Telpes Luis</div>
+            <div class="card-body">
+                <p><span class="keyword">Como</span> Estudiante,</p>
+                <p><span class="keyword">Quiero</span> vender mis libros y materiales académicos usados,</p>
+                <p><span class="keyword">Para</span> recuperar parte de mi inversión y apoyar a otros compañeros.</p>
+            </div>
+        </div>
 
+        <div class="card card-user-story" style="background-color: lightblue;">
+            <div class="card-header">Tenesaca Telpes Luis</div>
+            <div class="card-body">
+                <p><span class="keyword">Como</span> Usuario,</p>
+                <p><span class="keyword">Quiero</span> buscar servicios de tutorías dentro de la aplicación,</p>
+                <p><span class="keyword">Para</span> reforzar mis conocimientos en materias específicas.</p>
+            </div>
+        </div>
+
+        <div class="card card-user-story" style="background-color: lightblue;">
+            <div class="card-header">Tenesaca Telpes Luis</div>
+            <div class="card-body">
+                <p><span class="keyword">Como</span> Programador,</p>
+                <p><span class="keyword">Quiero</span> ofrecer servicios de desarrollo de software a la comunidad,</p>
+                <p><span class="keyword">Para</span> generar ingresos y obtener experiencia profesional.</p>
+            </div>
+        </div>
+
+        <div class="card card-user-story" style="background-color: lightblue;">
+            <div class="card-header">Tenesaca Telpes Luis</div>
+            <div class="card-body">
+                <p><span class="keyword">Como</span> Administrador,</p>
+                <p><span class="keyword">Quiero</span> supervisar las publicaciones de productos y servicios,</p>
+                <p><span class="keyword">Para</span> garantizar que el contenido sea confiable y apropiado.</p>
+            </div>
+        </div>
+
+        <div class="card card-user-story" style="background-color: lightblue;">
+            <div class="card-header">Tenesaca Telpes Luis</div>
+            <div class="card-body">
+                <p><span class="keyword">Como</span> Cliente,</p>
+                <p><span class="keyword">Quiero</span> calificar y dejar reseñas sobre los vendedores,</p>
+                <p><span class="keyword">Para</span> ayudar a otros usuarios a tomar mejores decisiones de compra.</p>
+            </div>
+        </div>
     </div>
 `;
 
